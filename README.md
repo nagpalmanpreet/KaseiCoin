@@ -246,7 +246,7 @@ You can also record your interactions with the executed contract as a short vide
 ![alt=""](Results/KaseiCoinCrowdsaleDeployer.png)
 * Recording
 ![alt=""](Results/Recording.mov)
-Please refer Recording.qt in the Results folder
+Please refer Recording.mov in the Results folder
 
 ---
 
