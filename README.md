@@ -236,11 +236,17 @@ You can also record your interactions with the executed contract as a short vide
 
 ---
 
-## Submission
+## Results
 
-* Upload the files for this assignment to your GitHub repository.
-
-* Submit the link to your GitHub repo on Bootcamp Spot.
+* Successful Compliation of KaseiCoin
+![alt=""](Results/KaseiCoin.png)
+* Successful Compliation of KaseiCoinCrowdsale
+![alt=""](Results/KaseiCoinCrowdsale.png)
+* Successful Compliation of KaseiCoinCrowdsaleDeployer 
+![alt=""](Results/KaseiCoinCrowdsaleDeployer.png)
+* Recording
+![alt=""](Results/Recording.mov)
+Please refer Recording.qt in the Results folder
 
 ---
 
