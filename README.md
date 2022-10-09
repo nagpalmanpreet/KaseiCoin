@@ -1,6 +1,6 @@
 # Unit 21: Martian Token Crowdsale
 
-![alt=""](Images/application-image.png)
+![alt=""](Results/application-image.png)
 
 ## Background
 
